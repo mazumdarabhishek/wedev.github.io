@@ -3,9 +3,7 @@
     
 }
 
-.tt:hover{
-    color: #332D2D;
-}
+
 
 .header-wrapper{
     background: #332D2D;
@@ -39,7 +37,10 @@ padding-bottom: 100px;
 /* TOURS CSS START */
 
 .tours{
-    
+    margin-bottom: -200px;
+}
+.domestic-tours{
+    margin-bottom: -200px;
 }
 .tours .cards-wrapper{
     display: flex;
@@ -53,7 +54,7 @@ padding-bottom: 100px;
 }
 
 .tours .row{
-    margin: 0 80px;
+    margin: 0 25px;
 }
 .tours .col{
     display: flex;
@@ -64,7 +65,7 @@ padding-bottom: 100px;
 .tours .card{
     /* width:320px;
     height: 400px; */
-    /* border-radius: 20px; */
+    border-radius: 20px;
     overflow: hidden;
     /* border: 8px solid #fff; */
     position:relative;
